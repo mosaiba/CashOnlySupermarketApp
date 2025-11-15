@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Forms\CategoriesForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\DisabledProductsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\DisabledSuppliersForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\ProductsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\SuppliersForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\UnitsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
