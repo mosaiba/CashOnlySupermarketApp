@@ -229,7 +229,7 @@
             btnShowDisabled.TabIndex = 9;
             btnShowDisabled.Text = "عرض الموظفين المعطلين";
             btnShowDisabled.UseVisualStyleBackColor = false;
-            btnShowDisabled.Click += btnShowDisabled_Click_1;
+            btnShowDisabled.Click += btnShowDisabled_Click;
             // 
             // btnRefresh
             // 
